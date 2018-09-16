@@ -26,6 +26,7 @@ Jupyter IPYNB
 # Versioning
 
 Version 1.01- 07/29/2018
+Version 1.02- 09/16/2018
 
 
 # Authors
